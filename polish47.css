@@ -1,0 +1,8 @@
+
+.comp-banner{padding:28px;border-radius:20px;background:linear-gradient(135deg,#173322,#354c35);margin:14px 0;text-align:center}
+.comp-title{font-size:clamp(28px,6vw,52px);font-weight:800}.comp-sub{opacity:.8;margin-top:6px}
+.comp-actions{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin:14px 0}
+.result-hero{font-size:clamp(28px,6vw,48px);font-weight:800;margin:20px 0}
+.result-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:15px 0}
+.result-grid>div{padding:18px;border-radius:16px;background:rgba(255,255,255,.07);text-align:center}
+.result-grid b{display:block;font-size:30px}.result-grid small{opacity:.7}
