@@ -1,0 +1,25 @@
+{
+  "license": "original-or-user-supplied assets only",
+  "sounds": [
+    {
+      "name": "arena_step",
+      "file": "audio/arena_step.mp3",
+      "optional": true
+    },
+    {
+      "name": "jump_success",
+      "file": "audio/jump_success.mp3",
+      "optional": true
+    },
+    {
+      "name": "rally_award",
+      "file": "audio/rally_award.mp3",
+      "optional": true
+    },
+    {
+      "name": "ui_confirm",
+      "file": "audio/ui_confirm.mp3",
+      "optional": true
+    }
+  ]
+}
